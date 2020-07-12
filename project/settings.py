@@ -25,7 +25,7 @@ SECRET_KEY = '_(k6_bgs3y()43fvomz=5(s^)1*1xg2m7w!6vrl*p_38bque=7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://ozaabbaz.github.io/islamic-repo/"]
 
 
 # Application definition
