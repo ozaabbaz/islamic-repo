@@ -2,8 +2,7 @@ Django
 test1
 test2
 pillow
-<<<<<<< HEAD
-test4
-=======
 test 3
->>>>>>> 43c41e814d43873cb7051b570d55ff116f4a13cf
+test4
+
+
