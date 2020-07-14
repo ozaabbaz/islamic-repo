@@ -15,4 +15,8 @@ from oza
 
 send from oza di
 
+<<<<<<< Updated upstream
 not
+=======
+stash
+>>>>>>> Stashed changes
